@@ -1,0 +1,35 @@
+img 
+{
+    width: auto;
+    height: 400px;
+}
+.circle
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #918558;
+    clip-path: circle(600px at left 700px);
+}
+.circle1
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #918558;
+    clip-path: circle(300px at center 450px);
+}
+.circle2
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #918558;
+    clip-path: circle(450px at right 506px);
+}
